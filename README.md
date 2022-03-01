@@ -2,16 +2,17 @@
  -Where tourist can search places where they want to go. Provide travel information and weather forecast
 
 # User Interface/UI
- ## Tailwind CSS <br />
-    Why tailwind because its faster when it comes to styling html as a result, you can easily create a good looking layouts by styling element directly.<br />
- ## Vue JS <br />
-    Because it's flexible and scable. This means that it can be used for a huge, modular SPA (Single Page Apps) as well. <br />
- ## Vuex <br />
-    Vuex is a state management library provided for Vue apps. A good state management system becomes crucial when your app gets more complex. <br />
- ## FourSquare API <br />
+ ## Tailwind CSS 
+    Why tailwind because its faster when it comes to styling html as a result, 
+    you can easily create a good looking layouts by styling element directly.
+ ## Vue JS 
+    Because it's flexible and scable. This means that it can be used for a huge, modular SPA (Single Page Apps) as well. 
+ ## Vuex 
+    Vuex is a state management library provided for Vue apps. A good state management system becomes crucial when your app gets more complex.
+ ## FourSquare API 
     Foursquare for getting the location.<br />
- ## OpenWeatherMap API <br />
-    OpenWeatherMap for getting the weather forecast. <br />
+ ## OpenWeatherMap API 
+    OpenWeatherMap for getting the weather forecast.
     
  # Backend
   Laravel Framework
